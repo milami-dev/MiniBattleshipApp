@@ -1,7 +1,7 @@
-This app is a mini-game based on the popular Battleship game. 
-You place your ships on the grid and then try to shoot down 
-all of your opponent's ships. 
+<h1>Ship Terminator</h1>
 
-Learning objective: making a complex project.
+A version of Battleship you play on a terminal, switching between you and a friend, as we did in the past.
 
-Based on requirements from Tim Corey's C# Mastercourse.
+![showcase of the app](https://github.com/milami-dev/MiniBattleshipApp/blob/master/ShipTerminator_clip.gif)
+
+*Based on requirements from Tim Corey's C# Mastercourse.
